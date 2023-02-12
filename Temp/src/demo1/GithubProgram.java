@@ -6,7 +6,10 @@ public class GithubProgram {
        
 		System.out.println("Welcome to github program");
 		System.out.println("to change name my repo");
-
+		
+		System.out.println("Welcome to github program");
+		System.out.println("to change name my repo");
+		
 	}
 
 }
